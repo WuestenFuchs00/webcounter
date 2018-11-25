@@ -1,0 +1,13 @@
+Apache (httpd)
+
+Run CMD as administrator.
+
+<Path>/xampp/apache/bin/httpd.exe
+
+httpd -k install	--> Install an Apache service
+httpd -k uninstall  --> Uninstall an Apache service
+
+httpd /?
+
+
+Location for web space:		<Path>/xampp/htdocs/

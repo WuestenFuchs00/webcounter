@@ -1,0 +1,12 @@
+https://hirudinoid-classroo.000webhostapp.com/webcounter/index.php
+https://hirudinoid-classroo.000webhostapp.com/TM1/index.php
+
+hirudinoid-classroo.000webhostapp.com
+
+FTP
+
+Host Name: files.000webhost.com
+Port: 21
+Username: hirudinoid-classroo
+Password: <same as your website password>
+Website name: hirudinoid-classroo
